@@ -1,4 +1,4 @@
-# Hi, I'm Yamini! 👋
+# Hi, I'm Yamini!
 
 ### Software Engineering | Manufacturing Analytics | Industrial Engineering
 
